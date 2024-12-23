@@ -1,17 +1,2 @@
 Subject Ordering : 
 
-
-CN
-TOC
-CD
-DL
-COA
-OS
-P & DSA - DA
-DBMS & W - DA
-DM 
-LA - DA
-CO - DA
-PS - DA
-ML 
-AI
